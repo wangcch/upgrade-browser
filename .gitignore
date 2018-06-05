@@ -1,1 +1,6 @@
 .DS_Store
+
+_scss
+.sass-cache
+main.css.map
+main.min.css.map
